@@ -2,7 +2,7 @@ import java.util.*;
 public class Grade{
     public static void main(String[] args) {
         Scanner sc=new Scanner (System.in);
-        System.out.print ("Enter the number subjects:-");
+        System.out.print ("Enter the number of subjects:-");
         int n=sc.nextInt ();
         int Marks[] = new int[n];
         //Input marks from user
