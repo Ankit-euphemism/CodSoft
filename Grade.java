@@ -26,7 +26,7 @@ public class Grade{
         for (int i=0;i<n;i++) {
             total += Marks[i]; //Total marks obtained
         }
-        int avg=total/ Marks.length; //Average percentage of total marks obtained
+        double avg=total/ Marks.length; //Average percentage of total marks obtained
         System.out.println ("Total Marks obtained Out of 500:" + total+"\n Average percentage:"+avg);
         //Grades
         if (90<avg){
