@@ -52,8 +52,9 @@ CodSoft is a compact repository of simple Java console programs intended for lea
 ### 1. Clone this repository 
 ```bash
 git clone https://github.com/Ankit-euphemism/CodSoft.git
-```
+
 cd CodSoft
+```
 
 ### 2. Compile a program
 ```bash
