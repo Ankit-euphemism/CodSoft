@@ -51,26 +51,26 @@ CodSoft is a compact repository of simple Java console programs intended for lea
 ## Installation and Run
 
 ### 1. Clone this repository 
-
+```bash
 git clone https://github.com/Ankit-euphemism/CodSoft.git
 
 cd CodSoft
 
 ### 2. Compile a program
-
-javac ATM.java <br>
+```bash
+javac ATM.java
 
 or compile all java files:- <br>
-
+```bash
 javac *.java
 
 ### 3. Run a Program
-
-java ATM <br>
+```bash
+java ATM 
 
 or: <br>
-
-java Grade <br>
-java Guess <br>
+```bash
+java Grade
+java Guess 
 
 
