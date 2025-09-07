@@ -6,7 +6,6 @@
 ## About
 CodSoft is a compact repository of simple Java console programs intended for learning core Java constructs: control flow, I/O, basics of OOP (where applicable), and simple algorithms. These are ideal as practice problems, classroom demos, or portfolio pieces for beginners.
 
-> **Note:** The file descriptions below are inferred from filenames in the repository (`ATM.java`, `Grade.java`, `Guess.java`). If you copy this in, please replace any placeholder text with more precise descriptions or sample outputs from your implementations.
 
 ## Files
 - `ATM.java`  
@@ -53,27 +52,27 @@ CodSoft is a compact repository of simple Java console programs intended for lea
 ### 1. Clone this repository 
 ```bash
 git clone https://github.com/Ankit-euphemism/CodSoft.git
-
+```
 cd CodSoft
 
 ### 2. Compile a program
 ```bash
 javac ATM.java
-
+```
 or compile all java files:-
 
 ```bash
 javac *.java
-
+```
 ### 3. Run a Program
 
 ```bash
 java ATM 
-
+```
 or:
 
 ```bash
 java Grade
 java Guess 
-
+```
 
