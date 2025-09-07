@@ -2,19 +2,6 @@
 
 > A small collection of beginner Java programs (ATM simulation, Grade calculator, Number guessing game) — neat, educational, and perfect for practice and demos.
 
-## Table of Contents
-- [About](#about)
-- [Files](#files)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation & Run](#installation--run)
-- [Usage Examples](#usage-examples)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Style / Conventions](#style--conventions)
-- [Roadmap](#roadmap)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 CodSoft is a compact repository of simple Java console programs intended for learning core Java constructs: control flow, I/O, basics of OOP (where applicable), and simple algorithms. These are ideal as practice problems, classroom demos, or portfolio pieces for beginners.
