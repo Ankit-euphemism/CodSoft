@@ -43,7 +43,7 @@ CodSoft is a compact repository of simple Java console programs intended for lea
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or newer installed.  
-  Verify with:
+  Verify with:<br>
   ```bash
   java -version
   javac -version
@@ -60,15 +60,18 @@ cd CodSoft
 ```bash
 javac ATM.java
 
-or compile all java files:- <br>
+or compile all java files:-
+
 ```bash
 javac *.java
 
 ### 3. Run a Program
+
 ```bash
 java ATM 
 
-or: <br>
+or:
+
 ```bash
 java Grade
 java Guess 
